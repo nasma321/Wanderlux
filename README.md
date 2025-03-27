@@ -9,8 +9,8 @@ Wanderlux is a modern hotel booking platform that leverages AI to provide person
 
 Attached is the public repository links of front end and backend:
 
-- **[Frontend](https://github.com/nasma321/horizone)**: React-based user interface
-- **[Backend](https://github.com/nasma321/horizone-backend)**: Express and Node.js API server
+- **[Frontend](https://github.com/nasma321/horizone)**: React-based user interface => https://aidf-horizone-frontend-nasma.netlify.app/
+- **[Backend](https://github.com/nasma321/horizone-backend)**: Express and Node.js API server => https://aidf-horizone-backend-nasma.onrender.com/
 
 ## Features Implemented
 
@@ -57,8 +57,6 @@ The application received a complete redesign with a modern, clean interface focu
 
 
 #### 4. User Bookings Management
-
-![User Bookings](screenshots/user_bookings.png)
 
 - **Booking History**: View all past and upcoming bookings
 - **Booking Details**: Comprehensive booking information display
